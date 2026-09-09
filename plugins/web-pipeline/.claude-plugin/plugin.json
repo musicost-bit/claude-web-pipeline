@@ -1,0 +1,6 @@
+{
+  "name": "web-pipeline",
+  "version": "0.1.0",
+  "description": "Pipeline de subagentes para desarrollo web asistido (US -> review -> dev -> qa -> pr -> deploy), reutilizable entre proyectos",
+  "author": { "name": "Jose" }
+}
