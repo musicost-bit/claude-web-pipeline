@@ -6,7 +6,7 @@
       "name": "web-pipeline",
       "source": "./plugins/web-pipeline",
       "description": "Pipeline de subagentes para desarrollo web asistido (US -> review -> dev -> qa -> pr -> deploy), reutilizable entre proyectos",
-      "version": "0.2.0"
+      "version": "0.3.0"
     }
   ]
 }
