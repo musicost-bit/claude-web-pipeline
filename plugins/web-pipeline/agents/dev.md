@@ -9,6 +9,7 @@ skills:
   - nextjs-lib-structure
   - nextjs-types-structure
   - nextjs-data-structure
+  - clean-code-practices
 model: sonnet
 ---
 
